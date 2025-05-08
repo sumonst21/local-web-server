@@ -45,7 +45,7 @@
     "lws-body-parser": "^1.0.2",
     "lws-compress": "^1.0.2",
     "lws-conditional-get": "^1.0.1",
-    "lws-cors": "^2.0.1",
+    "lws-cors": "^4.2.1",
     "lws-index": "^1.0.5",
     "lws-json": "^1.0.1",
     "lws-log": "^1.0.3",
@@ -59,7 +59,7 @@
   },
   "devDependencies": {
     "coveralls": "^3.0.7",
-    "jsdoc-to-markdown": "^5.0.2",
+    "jsdoc-to-markdown": "^9.1.1",
     "node-fetch": "^2.6.0",
     "nyc": "^14.1.1",
     "test-runner": "^0.7.2"
